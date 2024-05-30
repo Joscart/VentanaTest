@@ -8,6 +8,11 @@ import java.util.List;
 import libreria.Files;
 
 public class ClienteDAO implements Config{
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	/**
 	 * Files de la clase generica

@@ -8,6 +8,11 @@ import modelo.Cliente;
 import modelo.ClienteDAO;
 
 public class Empresa implements Runnable{
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	/**
 	 * Lista de clientes

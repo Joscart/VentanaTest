@@ -3,9 +3,14 @@ package modelo;
 import libreria.Generica;
 
 public class Cliente {
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	//Clase Generica
-	Generica<String,String> datos = new Generica<String,String>();
+	private Generica<String,String> datos = new Generica<String,String>();
 
 	/**
 	 * Constructor sin parametros

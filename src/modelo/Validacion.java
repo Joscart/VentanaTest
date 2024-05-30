@@ -1,6 +1,11 @@
 package modelo;
 
 public interface Validacion {
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	/**
 	 * Expresion regular para validar el nombre completo

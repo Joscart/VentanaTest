@@ -13,6 +13,11 @@ import javax.swing.JTextField;
 import javax.swing.JButton;
 
 public class Formulario extends JFrame {
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;

@@ -3,6 +3,11 @@ package modelo;
 import java.io.File;
 
 public interface Config {
+	
+	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
 
 	/**
 	 * Ruta absoluta de donde se escribe el archivo

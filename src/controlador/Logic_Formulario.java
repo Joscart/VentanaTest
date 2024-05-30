@@ -10,6 +10,11 @@ import vista.Formulario;
 public class Logic_Formulario implements ActionListener{
 	
 	/**
+	 * @author Jose Guallasamin
+	 * @since 29/05/2024
+	 */
+	
+	/**
 	 * Clase de la vista a la que se le asigna la logica
 	 */
 	private Formulario lb;
